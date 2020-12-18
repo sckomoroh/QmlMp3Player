@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>views/main.qml</file>
+        <file>views/PlaylistComponent.qml</file>
+        <file>views/ControlComponent.qml</file>
+        <file>views/ImageButton.qml</file>
+        <file>imgs/backward.png</file>
+        <file>imgs/forward.png</file>
+        <file>imgs/mute.png</file>
+        <file>imgs/play.png</file>
+        <file>imgs/repeat.png</file>
+        <file>imgs/shuffle.png</file>
+        <file>imgs/stop.png</file>
+    </qresource>
+</RCC>
